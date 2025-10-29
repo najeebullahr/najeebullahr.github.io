@@ -1,0 +1,2 @@
+cd E:\Portfolio\Privatefile
+.\update.ps1
