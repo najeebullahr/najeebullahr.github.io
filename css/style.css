@@ -378,7 +378,7 @@ body.light-mode .nav-menu {
   width: 180px;
   /* adjust size as needed */
   height: 150px;
-  border-radius: 70%;
+  border-radius: 50%;
   object-fit: cover;
   object-position: center top;
   /* shift the focus to show full head */
