@@ -375,9 +375,9 @@ body.light-mode .nav-menu {
 
 /* Base profile image */
 .profile-image {
-  width: 160px;
+  width: 150px;
   /* adjust size as needed */
-  height: 160;
+  height: 150px;
   border-radius: 70%;
   object-fit: cover;
   object-position: center top;
