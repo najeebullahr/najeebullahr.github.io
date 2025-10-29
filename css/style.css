@@ -380,9 +380,9 @@ body.light-mode .nav-menu {
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center top;
+  object-position: center 20%;
   /* shift the focus to show full head */
-  border: 2px solid rgba(255, 255, 255, 0.8);
+  border: 4px solid rgba(255, 255, 255, 0.8);
   box-shadow: 0 0 20px rgba(116, 185, 255, 0.5);
 }
 
