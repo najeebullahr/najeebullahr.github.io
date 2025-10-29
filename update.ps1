@@ -5,6 +5,10 @@
 # 1️⃣ Go to your local project folder
 Set-Location "E:\Portfolio"
 
+# Show which files were changed
+Write-Host "`n🧾 Files changed since last commit:" -ForegroundColor Cyan
+git status -s
+
 # 2️⃣ Stage all changed files
 git add .
 
